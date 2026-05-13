@@ -65,7 +65,7 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Projects",
+    "title": "Codes for Projects",
     "section": "",
     "text": "Germline Variant Calling Pipeline Using GATK\nA pipeline for identifying germline variants from whole genome sequencing data using the GATK Best Practices workflow.\n\n\nAP-Seq Data Analysis Pipeline\nA pipeline processing raw FASTQ data to metagene profiles of fold enrichment, including code for obtaining raw counts using FeatureCounts.\n\n\nPlasma Proteome Co-Depletion Explorer for Albumin/IgG\nPotential co-depleted proteins/peptides in human blood-based proteomics."
   },

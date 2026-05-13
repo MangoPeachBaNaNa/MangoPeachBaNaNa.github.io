@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Codes for Projects"
 ---
 
 ### [Germline Variant Calling Pipeline Using GATK](https://github.com/MangoPeachBaNaNa/GermlineVariantCalling_Pipeline_GATK)

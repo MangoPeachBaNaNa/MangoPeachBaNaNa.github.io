@@ -12,7 +12,7 @@ website:
       - href: index.qmd
         text: About Me
       - href: projects.qmd
-        text: Projects
+        text: Codes
       - href: publications.qmd
         text: Publications
       - href: teaching.qmd
