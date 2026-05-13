@@ -67,7 +67,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Germline Variant Calling Pipeline Using GATK\nA pipeline for identifying germline variants from whole genome sequencing data using the GATK Best Practices workflow."
+    "text": "Germline Variant Calling Pipeline Using GATK\nA pipeline for identifying germline variants from whole genome sequencing data using the GATK Best Practices workflow.\n\n\nAP-Seq Data Analysis Pipeline\nA pipeline processing raw FASTQ data to metagene profiles of fold enrichment, including code for obtaining raw counts using FeatureCounts."
   },
   {
     "objectID": "publications.html",

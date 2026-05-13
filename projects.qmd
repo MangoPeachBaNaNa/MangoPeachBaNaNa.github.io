@@ -5,3 +5,7 @@ title: "Projects"
 ### [Germline Variant Calling Pipeline Using GATK](https://github.com/MangoPeachBaNaNa/GermlineVariantCalling_Pipeline_GATK)
 
 A pipeline for identifying germline variants from whole genome sequencing data using the GATK Best Practices workflow.
+
+### [AP-Seq Data Analysis Pipeline](https://github.com/MangoPeachBaNaNa/Analysis-Pipeline-for-AP-Seq-Data)
+
+A pipeline processing raw FASTQ data to metagene profiles of fold enrichment, including code for obtaining raw counts using FeatureCounts.
