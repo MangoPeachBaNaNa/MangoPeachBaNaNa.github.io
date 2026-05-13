@@ -67,7 +67,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "About this site"
+    "text": "Germline Variant Calling Pipeline Using GATK\nA pipeline for identifying germline variants from whole-exome sequencing data using the GATK Best Practices workflow.\nView on GitHub"
   },
   {
     "objectID": "publications.html",
