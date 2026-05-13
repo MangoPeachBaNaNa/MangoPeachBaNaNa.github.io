@@ -1,0 +1,25 @@
+---
+title: "Teaching"
+---
+
+2019–2023
+
+### Tutorials
+
+- **MT1002 Mathematics** — 10 groups
+
+### Computing Sessions & Workshops
+
+- **MT3510** — Introduction to Mathematical Computing
+- **MT2504** — Combinatorics and Probability
+- **MT2503** — Multivariate Calculus
+- **MT2000** — Computing Workshop
+- **MT1007** — Statistics in Practice
+
+### Marking
+
+- **MT2503** — Python computing projects (~100)
+
+### Mentoring
+
+- **Piscopia Mentorship Scheme** — 2 undergraduates

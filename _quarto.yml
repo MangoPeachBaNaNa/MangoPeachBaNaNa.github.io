@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "MangoPeachBaNaNa"
+  site-url: "https://MangoPeachBaNaNa.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About Me
+      - href: projects.qmd
+        text: Projects
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: CV.qmd
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/MangoPeachBaNaNa
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=-y4a2zUAAAAJ&hl=en
+        aria-label: Google Scholar
+        target: _blank
+      - icon: linkedin
+        href: https://www.linkedin.com/in/naici-guo/
+
+  page-navigation: true
+
+  page-footer:
+    left: "© 2026 MangoPeachBaNaNa"
+    right:
+      - text: "Built with Quarto"
+        href: https://quarto.org
+
+format:
+  html:
+    respect-user-color-scheme: true
+    theme:
+      light: [flatly, theme_light.scss]
+      dark: [darkly, theme_dark.scss]
+    css: styles.css
+    toc: true
+    toc-location: right
+    smooth-scroll: true
+
+

@@ -1,0 +1,83 @@
+---
+title: "CV"
+---
+
+**Naici Guo**\
+Mobile: +44 07429626911\
+Email: naici.guo.stats@outlook.com
+
+## Experience
+
+### University of Sheffield
+**Research Associate** — May 2024 – Present
+
+- Developed and optimised statistical pipelines in Python for large-scale genomics within high-performance computing (HPC) environments.
+- Utilised a range of bioinformatics tools and Bayesian modelling methods to analyse and interpret datasets.
+
+### University of St Andrews
+**Teaching Assistant & Workshop Demonstrator** — Sep 2019 – Nov 2023
+
+- Led over 50+ tutorials and computing sessions for undergraduate students, modules including Statistics in Practice, Python Computing Projects, Multivariate Calculus, and Mathematical Computing.
+
+### Accenture
+**Consulting Internship** — May 2022 – Sep 2022
+
+- Conducted extensive evidence-driven research across industries, including insurance, healthcare, and alternative fuel vehicles.
+- Composed a 25-page analytical report synthesizing research insights and data trends for senior stakeholders.
+
+### Parexel
+**Drug Safety Associate** — Feb 2019 – Aug 2019
+
+- Analysed and integrated real-world healthcare data (EHR, drug safety reports) to identify adverse drug reactions and treatment effects.
+- Actively participated in data quality control and troubleshooting to ensure the integrity of regulatory reports.
+
+## Education
+
+**PhD in Statistics** — University of St Andrews, UK (2019–2025)
+
+**MSc in Toxicology, Merit** — University of Birmingham, UK (2017–2018)
+
+**BSc in Pharmacy** — Shenyang Pharmaceutical University, CN (2012–2017)
+
+## Technical Skills
+
+- **Programming & Scripting:** Python, R, Bash, SAS
+- **Bioinformatics & Data Analysis:** Omics data analysis (proteomics, peptidomics, metabolomics, genomics, transcriptomics), Bayesian inference, Machine learning (classification & regression), Survival analysis
+- **Tools & Environments:** Linux/Unix, Slurm & HPC, Git, Jupyter, RStudio
+- **Data Management & Reporting:** Data curation and annotation, Scientific writing, Data visualisation
+- Currently expanding skillset in Neural Networks and Deep learning
+
+## Publications
+
+1. **Guo, N.**, Minas, G., Synowsky, S.A., Dunne, M.R., Ahmed, H., McShane, R., Bhardwaj, A., Donlon, N.E., Lorton, C., O'Sullivan, J. and Reynolds, J.V., 2022. Identification of plasma proteins associated with oesophageal cancer chemotherapeutic treatment outcomes using SWATH-MS. *Journal of Proteomics*, 266, p.104684.
+2. Li, L., Chen, J., Qin, G., Qi, Y., Chen, Y., Li, M., Zhang, Q., Cheng, Y., **Guo, N.**, Moutari, S. and Moore, J.E., 2023. Tear Film Lipid Layer Changes Following Combined Effect of Heated Eye Mask with Intense Pulsed Light Therapy for Evaporative Dry Eye: A Randomized Control Study. *Photobiomodulation, Photomedicine, and Laser Surgery*, 41(8), pp.435-444.
+3. Chen, J., Qin, G., Li, L., Qi, Y., Xia, Y., Zhang, Q., Wu, Y., You, Y., Yang, L., **Guo, N.** and Moutari, S., 2023. The combined impact of intense pulsed light combined and 3% diquafosol ophthalmic solution on evaporative dry eye: a randomized control study. *Ophthalmology and Therapy*, pp.1-13.
+4. Qin, G., Chen, J., Li, L., Qi, Y., Chen, Y., Zhang, Q., Wu, Y., You, Y., Yang, L., **Guo, N.** and Moutari, S., 2023. Effects of diquafosol sodium ophthalmic solution on tear film matrix metallopeptidase-9 and corneal nerve density in patients with type 2 diabetic dry eye. *Journal of Ocular Pharmacology and Therapeutics*.
+
+## Presentations
+
+- **2026** MCB Meeting: "ATM and Human Genome Stability: Insights from High-throughput Sequencing"
+- **2024** PhD Viva: "Proteomic Studies in Cancer: Statistical Methods, Experimental Insights, and the Challenges of Dual Proteomics Profiles"
+- **2023** Maths Division Presentation: "Evaluation the performance and effects of Immunoaffinity-based Columns for Human Plasma Depletion to Facilitate SWATH Proteomics"
+- **2022** Maths Division Presentation: "Analysis of Omics Data in Cancers"
+- **2021** StAMBio seminar: "A Multivariate Model-based Approach for Treatment Response Prediction in Oesophageal Adenocarcinoma (OAC)"
+- **2019** SMMB: "Comparison of Clustering/Classification Methods"
+- **2018** Poster: "The effects of three cardioplegia solutions on myocardial metabolism during ischaemia-reperfusion in a Langendorff murine model"
+
+## Group Projects & Workshops
+
+### ICMS and MAC-MIGS Modelling Camp — May 2022
+*Project: Mathematical modelling of carbon capture by adsorption*
+
+- Collaborated with five other fellows to analyse the mathematical model of the CO2 adsorption process; solved and presented both linear and non-linear analytical solutions.
+- Contributed by conducting simulation studies to test the effects of variables, data visualisation and presenting.
+
+### Correlation One — Aug 2020 – Oct 2020
+*Data Science for All/Women Summit*
+
+- Conducted a model-based feature importance analysis on survey data to identify the three most important socioeconomic factors affecting people's opinions on the COVID-19 vaccine.
+- Guided the team with missing data imputation and normalisation for data from 26,000 surveys using Python, ensuring successful implementation of machine learning algorithms.
+
+---
+
+[Download PDF version](files/cv.pdf)

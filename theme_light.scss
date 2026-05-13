@@ -1,0 +1,141 @@
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
+/* Font: same stack for consistency with dark mode */
+$font-family-sans-serif: "Inter", -apple-system, BlinkMacSystemFont,
+  "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
+$font-family-monospace: "JetBrains Mono", "Fira Code", "SF Mono", Menlo,
+  Monaco, "Cascadia Code", monospace !default;
+$headings-font-family: "JetBrains Mono", "Inter", -apple-system,
+  BlinkMacSystemFont, sans-serif !default;
+
+/* Base font size */
+$font-size-base: 0.875rem !default;
+
+/* Heading sizes & weight */
+$headings-font-weight: 500 !default;
+$h1-font-size: 1.35rem !default;
+$h2-font-size: 1.1rem !default;
+$h3-font-size: 0.95rem !default;
+
+/* Pro-inspired light mode colors — crisp, clean, techy */
+$pro-accent: #0550ae;
+$pro-green: #116329;
+$pro-orange: #9a6700;
+$pro-red: #cf222e;
+$pro-muted: #656d76;
+
+/* Body */
+$body-bg: #ffffff !default;
+$body-color: #1f2328 !default;
+
+/* Links */
+$link-color: #0550ae !default;
+$link-hover-color: #0a68d4 !default;
+
+/* Code */
+$code-color: #1f2328 !default;
+$code-bg: #f0f2f4 !default;
+
+/* Navbar */
+$navbar-bg: #f6f8fa !default;
+$navbar-fg: #1f2328 !default;
+$navbar-hl: #0550ae !default;
+
+/* TOC */
+$toc-color: #656d76 !default;
+$toc-active-color: #0550ae !default;
+
+/* Footer */
+$footer-bg: #f6f8fa !default;
+$footer-color: #656d76 !default;
+
+/* Selection */
+$selection-bg: #b6d4fe !default;
+
+
+/*-- scss:rules --*/
+
+/* Global heading rhythm */
+.content h1,
+.content h2,
+.content h3,
+.content h4,
+.content h5,
+.content h6 {
+  letter-spacing: -0.02em;
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
+}
+
+/* Page title */
+.content h1 {
+  margin-top: 0;
+  font-weight: 500;
+}
+
+/* Primary section headers */
+.content h2 {
+  color: $pro-accent;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid rgba(5, 80, 174, 0.2);
+}
+
+/* Subsection headers */
+.content h3 {
+  color: #1f2328;
+}
+
+/* Improve paragraph readability */
+.content p {
+  line-height: 1.8;
+  margin-bottom: 1rem;
+}
+
+/* Inline code */
+.content code {
+  font-family: $font-family-monospace;
+  font-size: 0.85em;
+  padding: 0.15em 0.3em;
+  border-radius: 4px;
+  background-color: rgba(5, 80, 174, 0.08);
+}
+
+/* Code blocks */
+.content pre code {
+  background: none;
+  padding: 0;
+}
+
+/* Links */
+.nav-link {
+  font-family: $headings-font-family;
+  font-size: 0.9rem;
+  letter-spacing: -0.01em;
+}
+
+/* Sidebar / TOC */
+.sidebar nav li a {
+  font-family: $font-family-monospace;
+  font-size: 0.85rem;
+}
+
+/* Navbar brand */
+.navbar-brand {
+  font-family: $headings-font-family;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+}
+
+/* Blockquote styling */
+.blockquote {
+  border-left: 3px solid $pro-accent;
+  padding-left: 1rem;
+  color: $pro-muted;
+}
+
+/* Horizontal rule */
+hr {
+  border-color: rgba(5, 80, 174, 0.15);
+}

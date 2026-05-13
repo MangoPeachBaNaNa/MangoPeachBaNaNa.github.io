@@ -1,0 +1,37 @@
+---
+title: "Publications"
+---
+
+Total citations: **43** | h-index: **4** | i10-index: **2**
+
+---
+
+### 2024
+
+1. **Effects of diquafosol sodium ophthalmic solution on tear film matrix metallopeptidase-9 and corneal nerve density in patients with type 2 diabetic dry eye**\
+   G Qin, J Chen, L Li, Y Qi, Y Chen, Q Zhang, Y Wu, Y You, L Yang, **N Guo**, ...\
+   *Journal of Ocular Pharmacology and Therapeutics* 40 (6), 370-378, 2024\
+   [Citations: 9](https://scholar.google.com/scholar?cites=16768914142938218595)
+
+### 2023
+
+2. **Tear film lipid layer changes following combined effect of heated eye mask with intense pulsed light therapy for evaporative dry eye: a randomized control study**\
+   L Li, J Chen, G Qin, Y Qi, Y Chen, M Li, Q Zhang, Y Cheng, **N Guo**, ...\
+   *Photobiomodulation, Photomedicine, and Laser Surgery* 41 (8), 435-444, 2023\
+   [Citations: 14](https://scholar.google.com/scholar?cites=14370721786280670036)
+
+3. **The combined impact of intense pulsed light combined and 3% diquafosol ophthalmic solution on evaporative dry eye: a randomized control study**\
+   J Chen, G Qin, L Li, Y Qi, Y Xia, Q Zhang, Y Wu, Y You, L Yang, **N Guo**, ...\
+   *Ophthalmology and Therapy* 12 (6), 2959-2971, 2023\
+   [Citations: 13](https://scholar.google.com/scholar?cites=17389402655664293634)
+
+4. **Correction to: The combined impact of intense pulsed light combined and 3% diquafosol ophthalmic solution on evaporative dry eye: a randomized control study**\
+   J Chen, G Qin, L Li, Y Qi, Y Xia, Q Zhang, Y Wu, Y You, L Yang, **N Guo**, ...\
+   *Ophthalmology and Therapy*, 2023
+
+### 2022
+
+5. **Identification of plasma proteins associated with oesophageal cancer chemotherapeutic treatment outcomes using SWATH-MS**\
+   **N Guo**, G Minas, SA Synowsky, MR Dunne, H Ahmed, R McShane, ...\
+   *Journal of Proteomics* 266, 104684, 2022\
+   [Citations: 7](https://scholar.google.com/scholar?cites=3737311243391145161)
