@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "Naici Guo\nMobile: +44 07429626911\nEmail: naici.guo.stats@outlook.com"
+  },
+  {
+    "objectID": "CV.html#experience",
+    "href": "CV.html#experience",
+    "title": "CV",
+    "section": "Experience",
+    "text": "Experience\n\nUniversity of Sheffield\nResearch Associate — May 2024 – Present\n\nDeveloped and optimised statistical pipelines in Python for large-scale genomics within high-performance computing (HPC) environments.\nUtilised a range of bioinformatics tools and Bayesian modelling methods to analyse and interpret datasets.\n\n\n\nUniversity of St Andrews\nTeaching Assistant & Workshop Demonstrator — Sep 2019 – Nov 2023\n\nLed over 50+ tutorials and computing sessions for undergraduate students, modules including Statistics in Practice, Python Computing Projects, Multivariate Calculus, and Mathematical Computing.\n\n\n\nAccenture\nConsulting Internship — May 2022 – Sep 2022\n\nConducted extensive evidence-driven research across industries, including insurance, healthcare, and alternative fuel vehicles.\nComposed a 25-page analytical report synthesizing research insights and data trends for senior stakeholders.\n\n\n\nParexel\nDrug Safety Associate — Feb 2019 – Aug 2019\n\nAnalysed and integrated real-world healthcare data (EHR, drug safety reports) to identify adverse drug reactions and treatment effects.\nActively participated in data quality control and troubleshooting to ensure the integrity of regulatory reports."
+  },
+  {
+    "objectID": "CV.html#education",
+    "href": "CV.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\nPhD in Statistics — University of St Andrews, UK (2019–2025)\nMSc in Toxicology, Merit — University of Birmingham, UK (2017–2018)\nBSc in Pharmacy — Shenyang Pharmaceutical University, CN (2012–2017)"
+  },
+  {
+    "objectID": "CV.html#technical-skills",
+    "href": "CV.html#technical-skills",
+    "title": "CV",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nProgramming & Scripting: Python, R, Bash, SAS\nBioinformatics & Data Analysis: Omics data analysis (proteomics, peptidomics, metabolomics, genomics, transcriptomics), Bayesian inference, Machine learning (classification & regression), Survival analysis\nTools & Environments: Linux/Unix, Slurm & HPC, Git, Jupyter, RStudio\nData Management & Reporting: Data curation and annotation, Scientific writing, Data visualisation\nCurrently expanding skillset in Neural Networks and Deep learning"
+  },
+  {
+    "objectID": "CV.html#publications",
+    "href": "CV.html#publications",
+    "title": "CV",
+    "section": "Publications",
+    "text": "Publications\n\nGuo, N., Minas, G., Synowsky, S.A., Dunne, M.R., Ahmed, H., McShane, R., Bhardwaj, A., Donlon, N.E., Lorton, C., O’Sullivan, J. and Reynolds, J.V., 2022. Identification of plasma proteins associated with oesophageal cancer chemotherapeutic treatment outcomes using SWATH-MS. Journal of Proteomics, 266, p.104684.\nLi, L., Chen, J., Qin, G., Qi, Y., Chen, Y., Li, M., Zhang, Q., Cheng, Y., Guo, N., Moutari, S. and Moore, J.E., 2023. Tear Film Lipid Layer Changes Following Combined Effect of Heated Eye Mask with Intense Pulsed Light Therapy for Evaporative Dry Eye: A Randomized Control Study. Photobiomodulation, Photomedicine, and Laser Surgery, 41(8), pp.435-444.\nChen, J., Qin, G., Li, L., Qi, Y., Xia, Y., Zhang, Q., Wu, Y., You, Y., Yang, L., Guo, N. and Moutari, S., 2023. The combined impact of intense pulsed light combined and 3% diquafosol ophthalmic solution on evaporative dry eye: a randomized control study. Ophthalmology and Therapy, pp.1-13.\nQin, G., Chen, J., Li, L., Qi, Y., Chen, Y., Zhang, Q., Wu, Y., You, Y., Yang, L., Guo, N. and Moutari, S., 2023. Effects of diquafosol sodium ophthalmic solution on tear film matrix metallopeptidase-9 and corneal nerve density in patients with type 2 diabetic dry eye. Journal of Ocular Pharmacology and Therapeutics."
+  },
+  {
+    "objectID": "CV.html#presentations",
+    "href": "CV.html#presentations",
+    "title": "CV",
+    "section": "Presentations",
+    "text": "Presentations\n\n2026 MCB Meeting: “ATM and Human Genome Stability: Insights from High-throughput Sequencing”\n2024 PhD Viva: “Proteomic Studies in Cancer: Statistical Methods, Experimental Insights, and the Challenges of Dual Proteomics Profiles”\n2023 Maths Division Presentation: “Evaluation the performance and effects of Immunoaffinity-based Columns for Human Plasma Depletion to Facilitate SWATH Proteomics”\n2022 Maths Division Presentation: “Analysis of Omics Data in Cancers”\n2021 StAMBio seminar: “A Multivariate Model-based Approach for Treatment Response Prediction in Oesophageal Adenocarcinoma (OAC)”\n2019 SMMB: “Comparison of Clustering/Classification Methods”\n2018 Poster: “The effects of three cardioplegia solutions on myocardial metabolism during ischaemia-reperfusion in a Langendorff murine model”"
+  },
+  {
+    "objectID": "CV.html#group-projects-workshops",
+    "href": "CV.html#group-projects-workshops",
+    "title": "CV",
+    "section": "Group Projects & Workshops",
+    "text": "Group Projects & Workshops\n\nICMS and MAC-MIGS Modelling Camp — May 2022\nProject: Mathematical modelling of carbon capture by adsorption\n\nCollaborated with five other fellows to analyse the mathematical model of the CO2 adsorption process; solved and presented both linear and non-linear analytical solutions.\nContributed by conducting simulation studies to test the effects of variables, data visualisation and presenting.\n\n\n\nCorrelation One — Aug 2020 – Oct 2020\nData Science for All/Women Summit\n\nConducted a model-based feature importance analysis on survey data to identify the three most important socioeconomic factors affecting people’s opinions on the COVID-19 vaccine.\nGuided the team with missing data imputation and normalisation for data from 26,000 surveys using Python, ensuring successful implementation of machine learning algorithms.\n\n\nDownload PDF version"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Naici Guo",
+    "section": "",
+    "text": "Omics · Biostatistics · Bioinformatics\n\n\nI am a bioinformatician and statistician with a PhD in Statistics from the University of St Andrews, completed under the supervision of Prof. Andy Lynch and Dr. Giorgos Minas as part of the SMMB research group. I am currently a Postdoctoral Research Associate at the University of Sheffield, working across the Elkhamisi Lab and the Sud Lab.\nMy research focuses on high-throughput omics data analysis, including genomics, transcriptomics, proteomics, and metabolomics, to understand genome stability, RNA dynamics, and complex diseases such as cancer and neurodegeneration.\nI develop statistical and computational methods in Python and R, with interests in Bayesian modelling, machine learning, and AI-driven approaches for biomedical research."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "2019–2023\n\nTutorials\n\nMT1002 Mathematics — 10 groups\n\n\n\nComputing Sessions & Workshops\n\nMT3510 — Introduction to Mathematical Computing\nMT2504 — Combinatorics and Probability\nMT2503 — Multivariate Calculus\nMT2000 — Computing Workshop\nMT1007 — Statistics in Practice\n\n\n\nMarking\n\nMT2503 — Python computing projects (~100)\n\n\n\nMentoring\n\nPiscopia Mentorship Scheme — 2 undergraduates"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Total citations: 43 | h-index: 4 | i10-index: 2\n\n\n2024\n\nEffects of diquafosol sodium ophthalmic solution on tear film matrix metallopeptidase-9 and corneal nerve density in patients with type 2 diabetic dry eye\nG Qin, J Chen, L Li, Y Qi, Y Chen, Q Zhang, Y Wu, Y You, L Yang, N Guo, …\nJournal of Ocular Pharmacology and Therapeutics 40 (6), 370-378, 2024\nCitations: 9\n\n\n\n2023\n\nTear film lipid layer changes following combined effect of heated eye mask with intense pulsed light therapy for evaporative dry eye: a randomized control study\nL Li, J Chen, G Qin, Y Qi, Y Chen, M Li, Q Zhang, Y Cheng, N Guo, …\nPhotobiomodulation, Photomedicine, and Laser Surgery 41 (8), 435-444, 2023\nCitations: 14\nThe combined impact of intense pulsed light combined and 3% diquafosol ophthalmic solution on evaporative dry eye: a randomized control study\nJ Chen, G Qin, L Li, Y Qi, Y Xia, Q Zhang, Y Wu, Y You, L Yang, N Guo, …\nOphthalmology and Therapy 12 (6), 2959-2971, 2023\nCitations: 13\nCorrection to: The combined impact of intense pulsed light combined and 3% diquafosol ophthalmic solution on evaporative dry eye: a randomized control study\nJ Chen, G Qin, L Li, Y Qi, Y Xia, Q Zhang, Y Wu, Y You, L Yang, N Guo, …\nOphthalmology and Therapy, 2023\n\n\n\n2022\n\nIdentification of plasma proteins associated with oesophageal cancer chemotherapeutic treatment outcomes using SWATH-MS\nN Guo, G Minas, SA Synowsky, MR Dunne, H Ahmed, R McShane, …\nJournal of Proteomics 266, 104684, 2022\nCitations: 7"
+  }
+]
