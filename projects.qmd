@@ -2,8 +2,6 @@
 title: "Projects"
 ---
 
-### Germline Variant Calling Pipeline Using GATK
+### [Germline Variant Calling Pipeline Using GATK](https://github.com/MangoPeachBaNaNa/GermlineVariantCalling_Pipeline_GATK)
 
-A pipeline for identifying germline variants from whole-exome sequencing data using the GATK Best Practices workflow.
-
-[View on GitHub](https://github.com/MangoPeachBaNaNa/GermlineVariantCalling_Pipeline_GATK)
+A pipeline for identifying germline variants from whole genome sequencing data using the GATK Best Practices workflow.
