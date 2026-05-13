@@ -35,3 +35,8 @@ Total citations: **43** | h-index: **4** | i10-index: **2**
    **N Guo**, G Minas, SA Synowsky, MR Dunne, H Ahmed, R McShane, ...\
    *Journal of Proteomics* 266, 104684, 2022\
    [Citations: 7](https://scholar.google.com/scholar?cites=3737311243391145161)
+
+### Posters
+
+[**The effects of three cardioplegia solutions on myocardial metabolism during ischaemia-reperfusion in a Langendorff murine model**](files/poster.pdf)\
+2018

@@ -62,7 +62,7 @@ Email: naici.guo.stats@outlook.com
 - **2022** Maths Division Presentation: "Analysis of Omics Data in Cancers"
 - **2021** StAMBio seminar: "A Multivariate Model-based Approach for Treatment Response Prediction in Oesophageal Adenocarcinoma (OAC)"
 - **2019** SMMB: "Comparison of Clustering/Classification Methods"
-- **2018** Poster: "The effects of three cardioplegia solutions on myocardial metabolism during ischaemia-reperfusion in a Langendorff murine model"
+- **2018** Poster: "[The effects of three cardioplegia solutions on myocardial metabolism during ischaemia-reperfusion in a Langendorff murine model](files/poster.pdf)"
 
 ## Group Projects & Workshops
 
