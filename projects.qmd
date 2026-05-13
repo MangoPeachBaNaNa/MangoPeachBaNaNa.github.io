@@ -10,6 +10,6 @@ A pipeline for identifying germline variants from whole genome sequencing data u
 
 A pipeline processing raw FASTQ data to metagene profiles of fold enrichment, including code for obtaining raw counts using FeatureCounts.
 
-### [Albuminome Interactive Table](https://github.com/MangoPeachBaNaNa/albuminome_interactive_table)
+### [Plasma Proteome Co-Depletion Explorer for Albumin/IgG](https://github.com/MangoPeachBaNaNa/albuminome_interactive_table)
 
 Potential co-depleted proteins/peptides in human blood-based proteomics.
