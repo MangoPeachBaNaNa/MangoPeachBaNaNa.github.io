@@ -9,3 +9,7 @@ A pipeline for identifying germline variants from whole genome sequencing data u
 ### [AP-Seq Data Analysis Pipeline](https://github.com/MangoPeachBaNaNa/Analysis-Pipeline-for-AP-Seq-Data)
 
 A pipeline processing raw FASTQ data to metagene profiles of fold enrichment, including code for obtaining raw counts using FeatureCounts.
+
+### [Albuminome Interactive Table](https://github.com/MangoPeachBaNaNa/albuminome_interactive_table)
+
+Potential co-depleted proteins/peptides in human blood-based proteomics.
